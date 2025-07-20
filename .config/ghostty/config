@@ -1,6 +1,21 @@
-window-width = 12
-window-height = 8
+#-----------------------------------------------------------------------------#
+#                               🎨 UI                                         #
+#-----------------------------------------------------------------------------#
+theme = catppuccin-mocha
+
+#--- Fonts
+font-family = FiraCode Nerd Font
+font-size = 24
 
 # The opacity level (opposite of transparency) of the background.
 # A value of 1 is fully opaque and a value of 0 is fully transparent
-background-opacity = 0.9
+background-opacity = 0.8
+
+#-----------------------------------------------------------------------------#
+#                               🎢 UX                                         #
+#-----------------------------------------------------------------------------#
+window-width = 161
+window-height = 36 
+
+#--- Resoring windows state
+window-save-state = always
